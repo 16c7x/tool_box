@@ -4,6 +4,7 @@
 #
 # @example
 #   include tool_box::deferred
+# test comment
 class tool_box::deferred {
 
   $data = Deferred('webapp::mydata', ['centos'])
